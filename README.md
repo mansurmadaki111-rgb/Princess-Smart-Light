@@ -15,11 +15,11 @@ How It Works:
 
 The project uses:
 
-HC-05 Bluetooth Module for wireless voice command communication
+-HC-05 Bluetooth Module for wireless voice command communication
 
-Arduino Uno to process the command and control the LED
+-Arduino Uno to process the command and control the LED
 
-SoftwareSerial Library for serial communication with Bluetooth
+-SoftwareSerial Library for serial communication with Bluetooth
 
 When the Bluetooth receives:
 
@@ -47,15 +47,15 @@ Voice Commands:
 
 Upload Instructions:
 
-Copy the Arduino code below.
+-Copy the Arduino code below.
 
-Open Arduino IDE, paste the code, and select your board and COM port.
+-Open Arduino IDE, paste the code, and select your board and COM port.
 
-Upload it to your Arduino.
+-Upload it to your Arduino.
 
-Connect the Bluetooth module (TX–RX, RX–TX).
+-Connect the Bluetooth module (TX–RX, RX–TX).
 
-Pair your phone and use a Bluetooth terminal or voice control app, but me i made my own app using MIT App Inevntor
+-Pair your phone and use a Bluetooth terminal or voice control app, but me i made my own app using MIT App Inevntor
 
 Made With Love:
 
