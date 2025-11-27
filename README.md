@@ -9,7 +9,7 @@ It allows me to say commands like:
 “Princess turn off the light” 
 
 And the LED connected to pin 12 responds accordingly.
-Dedicated to my lovely princess(HAFSAT).
+Dedicated to my love.
 
 How It Works:
 
@@ -59,47 +59,6 @@ Upload Instructions:
 
 Made With Love:
 
-“This project is dedicated to my Princess❤️(HAFSAT) — because love shines brightest when you make things together.”
+“This project is dedicated to my Love ❤️ — because love shines brightest when you make things together.”
 
-— By Mansur Isah (SmartSense)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+— By Mansur Isah (SmartSense
