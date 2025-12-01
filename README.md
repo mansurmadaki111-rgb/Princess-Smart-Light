@@ -9,7 +9,6 @@ It allows me to say commands like:
 “Princess turn off the light” 
 
 And the LED connected to pin 12 responds accordingly.
-Dedicated to my love.
 
 How It Works:
 
@@ -56,9 +55,5 @@ Upload Instructions:
 -Connect the Bluetooth module (TX–RX, RX–TX).
 
 -Pair your phone and use a Bluetooth terminal or voice control app, but me i made my own app using MIT App Inevntor
-
-Made With Love:
-
-“This project is dedicated to my Love ❤️ — because love shines brightest when you make things together.”
 
 — By Mansur Isah (SmartSense
